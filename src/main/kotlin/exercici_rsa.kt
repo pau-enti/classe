@@ -7,6 +7,7 @@ import javax.crypto.Cipher
 const val ALGORITHM = "RSA"
 
 fun main() {
+    val keys = generateKeys()
 
 
 }
